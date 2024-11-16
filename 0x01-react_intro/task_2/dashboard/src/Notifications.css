@@ -1,0 +1,8 @@
+.Notifications {
+  border: 10%;
+  padding: 10px;
+  position: relative;
+  border: 10;
+  border-style: dashed;
+  border-color: red;
+}

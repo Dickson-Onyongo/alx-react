@@ -6,6 +6,7 @@ export default function notification() {
     <>
       <div className="Notifications">
         <p>Here is the list of notifications</p>
+        <label htmlFor=""></label>
       </div>
     </>
   );
