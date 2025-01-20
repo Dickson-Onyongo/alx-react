@@ -1,0 +1,16 @@
+.App-body {
+  margin: 50px;
+  font-weight: 100%;
+  margin-top: 10px;
+}
+
+.App-body #btn-ok {
+  margin-left: 20px;
+}
+
+li {
+  color: #e01d3f;
+}
+li[data-priority="default"] {
+  color: blue;
+}
